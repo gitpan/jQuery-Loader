@@ -28,4 +28,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/robertkrimen/jquery-loader/tree/master
-version: 0.02_1
+version: 0.03

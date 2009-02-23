@@ -2,7 +2,7 @@ NAME
     jQuery::Loader - Load (and cache) the jQuery JavaScript library
 
 VERSION
-    Version 0.02_1
+    Version 0.03
 
 jQuery VERSION
     Version 1.2.6
